@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-EPS = 0.000001
+EPS = 0.0000001
 P_H = 0.4
 def main():
     V_s = np.zeros(101)
